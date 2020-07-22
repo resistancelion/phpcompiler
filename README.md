@@ -1,2 +1,2 @@
 # phpcompiler
-compile PHP from source code
+This app provides you with tools to automatically build php from source code
